@@ -1,0 +1,1 @@
+# almarket-hesap-silme
